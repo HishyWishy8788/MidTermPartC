@@ -1,4 +1,3 @@
-package midtermexam_versiona_extensioncode;
 
 /**
  * Class created for the midterm branching task.
